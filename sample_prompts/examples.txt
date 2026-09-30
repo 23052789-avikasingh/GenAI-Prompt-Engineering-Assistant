@@ -1,0 +1,5 @@
+1. Email: Write a professional leave request email for two days.
+2. Academic: Explain normalization in DBMS for a beginner with examples.
+3. Coding: Write a Java solution for finding the second largest element.
+4. Business: Summarize customer feedback into themes and actions.
+5. Content: Create a concise LinkedIn post about learning Generative AI.
